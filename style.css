@@ -1,0 +1,39 @@
+body {
+    background-color: #424242 !important;
+    color: #fff;
+}
+
+#clock_header {
+    margin-top: 25%;
+    text-align: center;    
+    margin-bottom: 25px;
+}
+
+.header {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+
+#clock_body {
+    text-align: center;
+}
+
+.clock_items {
+    background-color: #fff;
+    color: #000000;
+    display: inline-block;
+    width: 150px;
+    padding: 30px;
+    margin-right: 10px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 0 rgba(255, 2, 2, 0.8);
+}
+
+#dateText {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+    margin-top: 25px;
+}
