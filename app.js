@@ -41,3 +41,5 @@ function getTime() {
 setInterval(function(){
     getTime();
 },1000)
+
+// Deneme branch'i
